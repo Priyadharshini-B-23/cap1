@@ -1,0 +1,39 @@
+#QuizCard{
+    width:900px;
+    /* height:430px; */
+    margin-left:23%;
+    margin-top:-45%;
+    background-color:rgb(237, 231, 231);
+  }
+  .col-sm-3{
+    font-weight: bold;
+  }
+
+  #bulklink,#newquelink{
+    text-decoration: none;
+    color:rgba(128, 128, 128);
+  }
+
+  #questitle{
+    color:grey;
+  }
+
+  #required{
+    color:Red;
+  }
+
+  #editicon{
+    font-size:30; 
+    margin-left:90%
+  }
+
+  #delicon{
+    font-size:28;
+    margin-left:2%;
+  }
+
+  #id{
+    font-weight:bold;
+  }
+
+  

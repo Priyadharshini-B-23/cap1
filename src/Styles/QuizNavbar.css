@@ -1,0 +1,35 @@
+
+        .grid-container {
+            display: grid;
+            border: 1px solid;
+            height:90%;
+            width: 250px;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+            gap: 10px; /* Adjust the gap size as needed */
+        }
+        .grid-item {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: lightblue;
+            font-size: 1.5rem;
+        }
+
+
+.question{
+    margin-top: 10%;
+    width: 50%;
+    /* height:50%; */
+    margin-left: 25%;
+   border: 1px solid ;
+   /* padding-top: 10%; */
+   /* padding-bottom: 10%;
+   padding-right: 20%;*/
+   padding-left: 2%; 
+  
+}
+.btn{
+    border-color: black;
+ 
+}
